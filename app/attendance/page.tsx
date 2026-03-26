@@ -12,8 +12,8 @@ type AttendanceProps = {
 
 /* ---------- CONFIG ---------- */
 //home:
-const CAMPUS_LAT = 11.513944566899058;
-const CAMPUS_LNG = 77.24670983047233;
+const CAMPUS_LAT =  10.694630;
+const CAMPUS_LNG = 78.979179;
 
 //college GCE:
  //onst CAMPUS_LAT = 10.694630;
